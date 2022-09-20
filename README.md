@@ -1,4 +1,4 @@
-# JoinsInAction_CS_SQL_Starter
+# JoinsInAction_SQL_CSI_Starter
 
 Project problems and setup directions for the Joins in Action SQL project.
 
